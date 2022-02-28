@@ -23,7 +23,7 @@ body {
 }
 
 .background {
-    background-color: #ffffff;
+    background-color: rgb(255, 255, 255);
     margin: 60px auto;
     display: flex;
     justify-content: center;
